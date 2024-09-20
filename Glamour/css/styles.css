@@ -1,0 +1,13 @@
+
+* {
+    font-family: 'Poppins' , sans-serif;
+}
+.banner {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0;
+}
+.products-padding {
+    padding: 70px 0;
+}
